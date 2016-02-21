@@ -1,6 +1,4 @@
 class StringExt
-  left = ""
-  right = ""
 
   def initialize (left, right)
     @left = left;
