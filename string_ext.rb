@@ -1,8 +1,8 @@
 class StringExt
 
   def initialize (left, right)
-    @left = left;
-    @right = right;
+    @left = left
+    @right = right
   end
 
   def concat
